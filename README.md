@@ -1,7 +1,7 @@
 # 102 Flower Classification
 
 ## Overview
-This project aims to fine-tune a ResNet50 model to classify flowers that are commonly occurring in the United Kingdom. A [previous study](https://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/)  utilized an SVM and a combination of features to achieve 72.8% accuracy. This project shows that a **93.04%** accuracy can be achieved with a more sophisticated deep learning model.
+This project aims to fine-tune a ResNet50 model to classify flowers that are commonly occurring in the United Kingdom. The [research that introduced this dataset](https://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/)  utilized an SVM and a combination of features to achieve 72.8% accuracy. This project shows that a **93.04%** accuracy can be achieved with a more sophisticated deep learning model.
 
 ## Data Understanding
 The [dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) contains 8189 images and 102 classes. Each class consists of between 40 and 258 images.
