@@ -30,3 +30,4 @@ Predictions were evaluated using [balanced accuracy](https://scikit-learn.org/st
 ## Next Steps
 - Dealing with overfitting problem (i.e. data augmentaion, L2 regularization, learning rate scheduler)
 ![curve](./src/learning_curve.png)
+- Try with a different model (i.e. [Transformer](https://paperswithcode.com/paper/escaping-the-big-data-paradigm-with-compact))
